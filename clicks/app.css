@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  background-color: whitesmoke;
+}
+
+body {
+  padding: 15px;
+}
+
+input {
+  padding: 5px 10px;
+  border: none;
+  appearance: none;
+  outline: none;
+  border: 1px solid black;
+}
